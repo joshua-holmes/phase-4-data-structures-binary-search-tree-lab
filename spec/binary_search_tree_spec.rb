@@ -1,3 +1,4 @@
+require "pry"
 describe BinarySearchTree do
   let(:tree) { BinarySearchTree.new }
   
